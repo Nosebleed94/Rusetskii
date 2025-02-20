@@ -1,4 +1,8 @@
 Создать новую ветку:
-git branch <name>
+    git branch <name>
+
 Переключиться на новую ветку:
-git checkout <name>
+    git checkout <name>
+
+Отправить ветку на сервер:
+    git push
