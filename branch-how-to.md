@@ -1,0 +1,4 @@
+Создать новую ветку:
+git branch <name>
+Переключиться на новую ветку:
+git checkout <name>
